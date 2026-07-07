@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "Multi-agent AI workstation that orchestrates coding, research, image, and video generation from a single chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
